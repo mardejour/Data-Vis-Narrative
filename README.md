@@ -1,6 +1,7 @@
 # Data-Vis-Narrative
 COVID-19 Pack-Chart
-1. Data for the chart is taken as a JSON file from the URL:
+
+Data for the chart is taken as a JSON file from the URL:
 
 https://disease.sh/v2/countries
 
