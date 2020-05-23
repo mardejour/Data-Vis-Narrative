@@ -5,7 +5,7 @@ Data for the chart is taken as a JSON file from the URL:
 
 https://disease.sh/v2/countries
 
-The API for Current cases with detailed information about COVID19 from global data overviews to city/region specific mobility data was taken from here: 
+The API for current cases with detailed information about COVID19 from global data overviews to city/region specific mobility data was taken from here: 
 
 https://disease.sh/docs/
 
